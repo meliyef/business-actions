@@ -17,3 +17,6 @@ it('should do something amazing', () => {
 it('should do something amazing', () => {
   expect(true).toBe(null);
 });
+it('should do something amazing', () => {
+  expect(true).toBe(none);
+});
