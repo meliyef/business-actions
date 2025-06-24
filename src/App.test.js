@@ -20,3 +20,6 @@ it('should do something amazing', () => {
 it('should do something amazing', () => {
   expect(true).toBe(none);
 });
+it('should do something amazing', () => {
+  expect(true).toBe(num);
+});
